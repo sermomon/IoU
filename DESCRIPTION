@@ -1,0 +1,11 @@
+Package: IoU
+Type: Package
+Title: Intersection over Union
+Version: 0.1.0
+Author: Sergio Morell-Monzó
+Maintainer: The package maintainer <sermomon@upv.es>
+Description: IoU functions computes the Intersection over Union (Jaccard index) from a
+    confusionMatrix output from the caret package.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
